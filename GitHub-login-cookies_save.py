@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 import requests
 from lxml import etree
 import http.cookiejar
